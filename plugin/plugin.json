@@ -1,0 +1,13 @@
+{
+    "name": "mcps",
+    "description": "Exposes context7, sequential-thinking, and serena MCP servers to Claude Code",
+    "version": "1.0.0",
+    "author": {
+        "name": "Vladislav Dobromyslov"
+    },
+    "repository": "https://github.com/vampik33/mcps",
+    "license": "MIT",
+    "keywords": [
+        "mcp"
+    ]
+}

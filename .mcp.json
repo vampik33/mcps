@@ -1,0 +1,22 @@
+{
+    "mcpServers": {
+        "context7": {
+            "type": "stdio",
+            "command": "~/.claude/mcp/context7.sh",
+            "args": [],
+            "env": {}
+        },
+        "sequential-thinking": {
+            "type": "stdio",
+            "command": "~/.claude/mcp/sequential-thinking.sh",
+            "args": [],
+            "env": {}
+        },
+        "serena": {
+            "type": "stdio",
+            "command": "~/.claude/mcp/serena.sh",
+            "args": [],
+            "env": {}
+        }
+    }
+}

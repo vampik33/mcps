@@ -1,0 +1,18 @@
+{
+    "name": "vampik33",
+    "owner": {
+        "name": "Vladislav Dobromyslov"
+    },
+    "metadata": {
+        "description": "Plugins by Vladislav Dobromyslov (vampik33)",
+        "homepage": "https://github.com/vampik33/mcps"
+    },
+    "plugins": [
+        {
+            "name": "mcps",
+            "version": "1.0.0",
+            "source": "./plugin",
+            "description": "Exposes context7, sequential-thinking, and serena MCP servers to Claude Codec"
+        }
+    ]
+}
